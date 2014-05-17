@@ -43,7 +43,7 @@ COMMING SOON PAGE
             seconds.html('<h1>'+s+'</h1><p>Second'+(s>1?'s':''),'</p>');
             setTimeout(setDate, 1000);
 
-            message.html('OUR SITE IS NOT READY YET, BUT WE ARE COMING SOON');
+            message.html('MORE INFO COMING SOON!');
         }
     }
 })(jQuery);
