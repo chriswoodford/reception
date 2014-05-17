@@ -12,8 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap
 //= require modernizr.custom
+//= require bootstrap
+//= require plugins
 //= require jquery.themepunch.revolution.min
 //= require turbolinks
 //= require_tree .
